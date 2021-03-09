@@ -264,6 +264,10 @@ form.customform input, form.customform select, form.customform textarea {
 
 
 /* Dragon Architect Addition */
+nav {
+	position: fixed;
+}
+
 #moreOverview, #moreResult {
 	display: none;
 }
