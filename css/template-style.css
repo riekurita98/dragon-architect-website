@@ -281,10 +281,16 @@ nav {
 	margin-top: 20px;
 }
 
-#overview h1{
+#overview h1, #overview a{
 	color: #152732;
 }
 
 #result h2{
 	color: #fff;
+}
+
+.icon-image {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
 }
