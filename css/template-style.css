@@ -69,10 +69,10 @@ nav ul li ul li {
 #about {
 	background: #fff;
 }
-#overview {
+#overview, #resources {
 	background: #fff;
 }
-#result, #resources {
+#result {
 	background: none repeat scroll 0 0 rgba(0, 30, 34, 0.85);
 }
 #fourth-block {
@@ -142,11 +142,6 @@ section h1 {
 #result p {
 	color: #fff;
 }
-
-#resources p {
-	color: #fff;
-}
-
 #head {
 	background: none repeat scroll 0 0 rgba(0, 30, 34, 0.85);
 	padding: 9rem 0 5rem;
@@ -290,12 +285,13 @@ nav {
 	color: #152732;
 }
 
-
-#result h2{
-	color: #fff;
+#resources h1, #resources a{
+	color: #152732;
 }
 
-#resources h2{
+
+
+#result h2{
 	color: #fff;
 }
 
