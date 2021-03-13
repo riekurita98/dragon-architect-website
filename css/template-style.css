@@ -300,3 +300,13 @@ nav {
     height: 200px;
     border-radius: 50%;
 }
+
+
+#resources .button {
+	width: 140px;
+	margin: 5px auto;
+}
+
+#resources .margin{
+	margin-top: 20px;
+}
