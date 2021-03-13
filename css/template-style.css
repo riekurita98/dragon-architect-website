@@ -59,7 +59,7 @@ nav ul li ul li {
 #fourth-block p {
 	color: #fff;
 }
-#about, #overview, #result, #fourth-block {
+#about, #overview, #result, #fourth-block, #resources {
 	text-align: center;
 	padding: 4.5rem 0;
 }
@@ -69,7 +69,7 @@ nav ul li ul li {
 #about {
 	background: #fff;
 }
-#overview {
+#overview, #resources {
 	background: #fff;
 }
 #result {
@@ -284,6 +284,12 @@ nav {
 #overview h1, #overview a{
 	color: #152732;
 }
+
+#resources h1, #resources a{
+	color: #152732;
+}
+
+
 
 #result h2{
 	color: #fff;
